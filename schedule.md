@@ -53,6 +53,8 @@ Daily (Weekly) Scrum and status check
 ---
 ***Week 7:***
 
+Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
+
 **March 7** 
 
 **March 9**
@@ -63,7 +65,7 @@ Daily (Weekly) Scrum and status check
 ---
 ***Week 8:***
 
-Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
+Sprint 2 Daily (Weekly) Scrum and status check
 
 **March 21**
 
@@ -72,7 +74,7 @@ Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
 ---
 ***Week 9:***
 
-Sprint 2 Daily (Weekly) Scrum and status check
+Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 
 **March 28**
 
@@ -81,7 +83,7 @@ Sprint 2 Daily (Weekly) Scrum and status check
 ---
 ***Week 10:***
 
-Sprint 2 Review Meeting and Sprint 3 Planning Meeting
+Sprint 3 mid-point
 
 **April 4**
 
@@ -90,7 +92,7 @@ Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 ---
 ***Week 11:***
 
-Sprint 3 mid-point
+Sprint 3 Review and Sprint 4 Planning
 
 **April 11** 
 
@@ -99,7 +101,7 @@ Sprint 3 mid-point
 ---
 ***Week 12:***
 
-Sprint 3 Review and Sprint 4 Planning
+Sprint 4 mid-point 
 
 **April 18**
 
@@ -108,27 +110,31 @@ Sprint 3 Review and Sprint 4 Planning
 ---
 ***Week 13:***
 
-Sprint 4 mid-point 
+Sprint 4 Review and Sprint 5 Planning
+
 
 **April 25**
 
 **April 27**
 
-Note: Sprint 4 review is part of the final project presentation
 
 ---
 ***Week 14:***
 
+Sprint 5 mid-point 
+
 **May 2**
 
 **May 4**
+
+Note: There is no sprint 5 demo, that will be part of the final presentation
 
 ---
 ***Week 15:***
 
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
-**May 9** Last Day of Class. Project presentations.
+**May 9 (Last Day of Class.)** Project presentations.
 
 ---
 ***Final:***
