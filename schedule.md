@@ -29,7 +29,7 @@
 
 **Feb 14** Scrum, start thinking about the product backlog
 
-**Feb 16**
+**Feb 16** Sprint 1 instructions, Initial checkpoint with groups
 
 ---
 ***Week 5:*** 
