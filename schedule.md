@@ -36,9 +36,17 @@
 
 Sprint 1 planning meeting
 
-**Feb 21**
+**Feb 21** The following groups (and anyone not in a group) will meet Tuesday:
+- DynProg
+- CIMS 
+- food-app/Scavenger 
+- alexs-group
 
-**Feb 23**
+**Feb 23** The following groups (and anyone not in a group) will meet Thursday:
+- ScheduleU
+- TourneyTitans
+- TWEAD/SMStudy 
+- SysMon/Watchtower
 
 
 ---
@@ -46,18 +54,34 @@ Sprint 1 planning meeting
 
 Daily (Weekly) Scrum and status check
 
-**Feb 28**
+**Feb 28** The following groups will meet Tuesday:
+- DynProg
+- CIMS 
+- food-app/Scavenger 
+- alexs-group
 
-**March 2**
+**March 2** The following groups will meet Thursday:
+- ScheduleU
+- TourneyTitans
+- TWEAD/SMStudy 
+- SysMon/Watchtower
 
 ---
 ***Week 7:***
 
 Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
 
-**March 7** 
+**March 7** The following groups will meet Tuesday:
+- DynProg
+- CIMS 
+- food-app/Scavenger 
+- alexs-group
 
-**March 9**
+**March 9** The following groups will meet Thursday:
+- ScheduleU
+- TourneyTitans
+- TWEAD/SMStudy 
+- SysMon/Watchtower
 
 ---
 **Spring Break !!!**
