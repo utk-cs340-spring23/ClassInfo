@@ -45,8 +45,8 @@ Sprint 1 planning meeting
 **Feb 23** The following groups (and anyone not in a group) will meet Thursday:
 - ScheduleU
 - TourneyTitans
-- TWEAD/SMStudy 
-- SysMon/Watchtower
+- TWEAD
+- Watchtower
 
 
 ---
@@ -57,14 +57,15 @@ Daily (Weekly) Scrum and status check
 **Feb 28** The following groups will meet Tuesday:
 - DynProg
 - CIMS 
-- food-app/Scavenger 
-- alexs-group
+- food-app 
+- code-dojo
+- SportsMan
 
 **March 2** The following groups will meet Thursday:
 - ScheduleU
 - TourneyTitans
-- TWEAD/SMStudy 
-- SysMon/Watchtower
+- TWEAD
+- Watchtower
 
 ---
 ***Week 7:***
@@ -74,14 +75,15 @@ Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
 **March 7** The following groups will meet Tuesday:
 - DynProg
 - CIMS 
-- food-app/Scavenger 
-- alexs-group
+- food-app 
+- acode-dojo
+- SportsMan 
 
 **March 9** The following groups will meet Thursday:
 - ScheduleU
 - TourneyTitans
-- TWEAD/SMStudy 
-- SysMon/Watchtower
+- TWEAD/ 
+- Watchtower
 
 ---
 **Spring Break !!!**
