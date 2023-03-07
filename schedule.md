@@ -93,25 +93,25 @@ Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
 
 Sprint 2 Daily (Weekly) Scrum and status check
 
-**March 21**
+**March 21** Only Tuesday groups meet in class
 
-**March 23**
+**March 23** Only Thursday groups meet in class
 
 ---
 ***Week 9:***
 
 Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 
-**March 28**
+**March 28** Only Tuesday groups meet in class
 
-**March 30**
+**March 30** Only Thursday groups meet in class
 
 ---
 ***Week 10:***
 
 Sprint 3 mid-point
 
-**April 4**
+**April 4** Everone meets in class this day
 
 **April 6** No Class!!
 
@@ -120,9 +120,9 @@ Sprint 3 mid-point
 
 Sprint 3 Review and Sprint 4 Planning
 
-**April 11** 
+**April 11** Only Tuesday groups meet in class
 
-**April 13**
+**April 13** Only Thursday groups meet in class
 
 ---
 ***Week 12:***
