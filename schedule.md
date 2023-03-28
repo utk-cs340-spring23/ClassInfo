@@ -111,9 +111,9 @@ Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 
 Sprint 3 mid-point
 
-**April 4** Everone meets in class this day
+**April 4** Attendance optional. I'm available to meet with your groups. Let me know in advance if you want to meet with me.
 
-**April 6** No Class!!
+**April 6** U.T. Holiday, No Class!!
 
 ---
 ***Week 11:***
@@ -168,3 +168,16 @@ Note: There is no sprint 5 demo, that will be part of the final presentation
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
 **May 12, 1pm-3pm (Final)** Project presentations.
+
+
+Final project date not yet scheduled:
+- DynProg
+- CIMS 
+- food-app 
+- code-dojo
+- SportsMan
+
+- ScheduleU
+- TourneyTitans
+- TWEAD
+- Watchtower
