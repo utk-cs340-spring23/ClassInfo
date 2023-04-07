@@ -161,6 +161,7 @@ Note: There is no sprint 5 demo, that will be part of the final presentation
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
 **May 9 (Last Day of Class.)** Project presentations.
+- TWEAD
 
 ---
 ***Final:***
@@ -179,5 +180,5 @@ Final project date not yet scheduled:
 
 - ScheduleU
 - TourneyTitans
-- TWEAD
+
 - Watchtower
