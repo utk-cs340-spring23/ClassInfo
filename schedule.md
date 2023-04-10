@@ -129,9 +129,9 @@ Sprint 3 Review and Sprint 4 Planning
 
 Sprint 4 mid-point 
 
-**April 18**
+**April 18** Only Tuesday groups meet in class
 
-**April 20**
+**April 20** Only Thursday groups meet in class
 
 ---
 ***Week 13:***
@@ -139,9 +139,9 @@ Sprint 4 mid-point
 Sprint 4 Review and Sprint 5 Planning
 
 
-**April 25**
+**April 25** Only Tuesday groups meet in class
 
-**April 27**
+**April 27** Only Thursday groups meet in class
 
 
 ---
